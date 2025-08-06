@@ -1,0 +1,7 @@
+set_io --warn-no-port cantidad[0] 1  #-- output
+set_io --warn-no-port cantidad[1] 2  #-- output
+set_io --warn-no-port cantidad[2] 3  #-- output
+set_io --warn-no-port a 31  # input
+set_io --warn-no-port b 33  # input
+set_io --warn-no-port reset 34  # input
+set_io --warn-no-port clk 94  # input
